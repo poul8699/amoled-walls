@@ -1,1 +1,14 @@
-
+[
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/ny/1.jpg",
+    "title": "Candle Gold",
+    "tags": ["newyear", "2026", "candle", "gold", "warm", "bokeh"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/ny/2.jpg",
+    "title": "Snow Night",
+    "tags": ["newyear", "2026", "snow", "night", "blue", "amoled"],
+    "premium": true
+  }
+]
