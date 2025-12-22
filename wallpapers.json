@@ -1,35 +1,167 @@
 [
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/1.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/2.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/3.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/4.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/5.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/6.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/7.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/8.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/9.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/10.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/11.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/12.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/13.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/14.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/15.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/16.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/17.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/18.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/19.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/20.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/21.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/22.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/23.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/24.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/25.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/26.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/27.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/28.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/29.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/30.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/31.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/32.jpg" },
-  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/33.jpg" }
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/1.jpg",
+    "tags": ["amoled", "abstract", "neon", "blue", "purple", "light streaks", "glow", "minimal"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/2.jpg",
+    "tags": ["amoled", "minimal", "dark", "red", "orange", "horizon glow", "cinematic", "clean"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/3.jpg",
+    "tags": ["amoled", "abstract", "black", "glossy", "silk", "curve", "luxury", "minimal"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/4.jpg",
+    "tags": ["amoled", "abstract", "smoke", "blue", "soft", "wisps", "dark", "elegant"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/5.jpg",
+    "tags": ["amoled", "space", "nebula", "galaxy", "cosmic", "particles", "colorful", "glow"],
+    "premium": true
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/6.jpg",
+    "tags": ["amoled", "abstract", "energy", "purple", "plasma", "storm", "glow", "mystic"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/7.jpg",
+    "tags": ["amoled", "space", "galaxy", "stars", "blue", "nebula", "deep space", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/8.jpg",
+    "tags": ["amoled", "space", "portal", "ring", "nebula", "glow", "blue", "sci-fi"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/9.jpg",
+    "tags": ["amoled", "fantasy", "castle", "magic", "purple", "glow", "epic", "cinematic"],
+    "premium": true
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/10.jpg",
+    "tags": ["amoled", "animal", "eye", "blue", "predator", "dark", "mystery", "macro"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/11.jpg",
+    "tags": ["amoled", "lava", "fire", "cracks", "embers", "rock", "orange", "heat"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/12.jpg",
+    "tags": ["amoled", "carbon", "fiber", "texture", "orange accent", "tech", "diagonal", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/13.jpg",
+    "tags": ["amoled", "watch", "luxury", "macro", "metal", "mechanical", "dark", "premium look"],
+    "premium": true
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/14.jpg",
+    "tags": ["amoled", "minimal", "monochrome", "silver", "grain", "texture", "soft light", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/15.jpg",
+    "tags": ["amoled", "lava", "volcano", "fire", "magma", "red", "embers", "flow"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/16.jpg",
+    "tags": ["amoled", "lightning", "electric", "blue", "cracks", "storm", "energy", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/17.jpg",
+    "tags": ["amoled", "embers", "spark", "orange", "rock", "crack", "dark", "minimal"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/18.jpg",
+    "tags": ["amoled", "cherry", "fruit", "macro", "red", "food", "dark", "minimal"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/19.jpg",
+    "tags": ["amoled", "apple", "fruit", "macro", "red", "food", "dark", "minimal"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/20.jpg",
+    "tags": ["amoled", "fire", "coals", "embers", "sparks", "heat", "orange", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/21.jpg",
+    "tags": ["amoled", "christmas", "new year", "tree", "ornaments", "holiday", "warm light", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/22.jpg",
+    "tags": ["amoled", "still life", "vintage", "candlelight", "warm", "table", "moody", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/23.jpg",
+    "tags": ["amoled", "books", "library", "shelf", "vintage", "brown", "cozy", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/24.jpg",
+    "tags": ["amoled", "books", "library", "old books", "shelf", "vintage", "texture", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/25.jpg",
+    "tags": ["amoled", "books", "library", "shelf", "warm", "vintage", "cozy", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/26.jpg",
+    "tags": ["amoled", "old books", "leather", "spines", "library", "vintage", "brown", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/27.jpg",
+    "tags": ["amoled", "gothic", "window", "cathedral", "fog", "moody", "architecture", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/28.jpg",
+    "tags": ["amoled", "door", "corridor", "mystery", "old", "gothic", "moody", "dark"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/29.jpg",
+    "tags": ["amoled", "sci-fi", "tech", "machine", "teal", "glow", "metal", "futuristic"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/30.jpg",
+    "tags": ["amoled", "sci-fi", "tech", "machine", "orange", "glow", "metal", "futuristic"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/31.jpg",
+    "tags": ["amoled", "mouse", "cute", "animal", "books", "library", "warm", "dark"],
+    "premium": true
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/32.jpg",
+    "tags": ["amoled", "cute", "cat", "kitten", "glow", "blue", "character", "dark"],
+    "premium": true
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/33.jpg",
+    "tags": ["amoled", "dark", "abstract", "minimal", "glow"],
+    "premium": false
+  }
 ]
