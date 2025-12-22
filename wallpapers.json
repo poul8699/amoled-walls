@@ -164,4 +164,90 @@
     "tags": ["амолед", "абстракция", "темный фон", "минимализм"],
     "premium": false
   }
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/34.jpg",
+    "tags": ["амолед", "технологии", "сервер", "киберпанк", "синий свет", "будущее"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/35.jpg",
+    "tags": ["амолед", "лес", "горы", "туман", "природа", "спокойствие"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/36.jpg",
+    "tags": ["амолед", "темный лес", "туман", "природа", "атмосфера", "мистика"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/37.jpg",
+    "tags": ["амолед", "лес", "ручей", "вода", "туман", "природа"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/38.jpg",
+    "tags": ["амолед", "машина", "спорткар", "огонь", "скорость", "драйв"],
+    "premium": true
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/39.jpg",
+    "tags": ["амолед", "машина", "спорткар", "дорога", "закат", "скорость"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/40.jpg",
+    "tags": ["амолед", "машина", "ночь", "неон", "город", "киберпанк"],
+    "premium": true
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/41.jpg",
+    "tags": ["амолед", "спорткар", "город", "неон", "ночь", "дождь"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/42.jpg",
+    "tags": ["амолед", "абстракция", "карбон", "технологии", "линии", "свет"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/43.jpg",
+    "tags": ["амолед", "энергия", "свет", "абстракция", "движение", "неон"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/44.jpg",
+    "tags": ["амолед", "кристалл", "взрыв света", "энергия", "абстракция"],
+    "premium": true
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/45.jpg",
+    "tags": ["амолед", "космос", "энергия", "свет", "абстракция", "галактика"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/46.jpg",
+    "tags": ["амолед", "галактика", "вихрь", "космос", "звезды", "глубина"],
+    "premium": true
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/47.jpg",
+    "tags": ["амолед", "дерево", "текстура", "кельтский узор", "руны", "мистика"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/48.jpg",
+    "tags": ["амолед", "энергия", "зеленый свет", "трещина", "магия"],
+    "premium": false
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/49.jpg",
+    "tags": ["амолед", "лиса", "животное", "огонь", "милое", "сказка"],
+    "premium": true
+  },
+  {
+    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/50.jpg",
+    "tags": ["амолед", "милый робот", "лисенок", "персонаж", "неон", "будущее"],
+    "premium": true
+  }
 ]
+
