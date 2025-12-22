@@ -163,7 +163,7 @@
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/33.jpg",
     "tags": ["амолед", "абстракция", "темный фон", "минимализм"],
     "premium": false
-  }
+  },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/34.jpg",
     "tags": ["амолед", "технологии", "сервер", "киберпанк", "синий свет", "будущее"],
@@ -250,4 +250,3 @@
     "premium": true
   }
 ]
-
