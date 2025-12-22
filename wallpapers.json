@@ -1,167 +1,167 @@
 [
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/1.jpg",
-    "tags": ["amoled", "abstract", "neon", "blue", "purple", "light streaks", "glow", "minimal"],
+    "tags": ["амолед", "абстракция", "неон", "синий", "фиолетовый", "свечение", "минимализм"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/2.jpg",
-    "tags": ["amoled", "minimal", "dark", "red", "orange", "horizon glow", "cinematic", "clean"],
+    "tags": ["амолед", "минимализм", "темный фон", "красный", "оранжевый", "горизонт", "кино"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/3.jpg",
-    "tags": ["amoled", "abstract", "black", "glossy", "silk", "curve", "luxury", "minimal"],
+    "tags": ["амолед", "абстракция", "черный", "глянец", "шелк", "изгиб", "премиальный стиль"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/4.jpg",
-    "tags": ["amoled", "abstract", "smoke", "blue", "soft", "wisps", "dark", "elegant"],
+    "tags": ["амолед", "дым", "синий", "мягкий свет", "абстракция", "элегантный"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/5.jpg",
-    "tags": ["amoled", "space", "nebula", "galaxy", "cosmic", "particles", "colorful", "glow"],
+    "tags": ["амолед", "космос", "туманность", "галактика", "частицы", "свечение"],
     "premium": true
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/6.jpg",
-    "tags": ["amoled", "abstract", "energy", "purple", "plasma", "storm", "glow", "mystic"],
+    "tags": ["амолед", "энергия", "фиолетовый", "плазма", "абстракция", "магия"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/7.jpg",
-    "tags": ["amoled", "space", "galaxy", "stars", "blue", "nebula", "deep space", "dark"],
+    "tags": ["амолед", "космос", "звезды", "галактика", "глубокий космос"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/8.jpg",
-    "tags": ["amoled", "space", "portal", "ring", "nebula", "glow", "blue", "sci-fi"],
+    "tags": ["амолед", "портал", "кольцо", "космос", "sci-fi", "свечение"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/9.jpg",
-    "tags": ["amoled", "fantasy", "castle", "magic", "purple", "glow", "epic", "cinematic"],
+    "tags": ["амолед", "фэнтези", "замок", "магия", "эпично", "кино"],
     "premium": true
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/10.jpg",
-    "tags": ["amoled", "animal", "eye", "blue", "predator", "dark", "mystery", "macro"],
+    "tags": ["амолед", "глаз", "животное", "хищник", "макро", "загадка"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/11.jpg",
-    "tags": ["amoled", "lava", "fire", "cracks", "embers", "rock", "orange", "heat"],
-    "premium": false
+    "tags": ["амолед", "лава", "огонь", "трещины", "жара", "магма"],
+    "premium": true
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/12.jpg",
-    "tags": ["amoled", "carbon", "fiber", "texture", "orange accent", "tech", "diagonal", "dark"],
+    "tags": ["амолед", "карбон", "текстура", "технологии", "оранжевый акцент"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/13.jpg",
-    "tags": ["amoled", "watch", "luxury", "macro", "metal", "mechanical", "dark", "premium look"],
-    "premium": true
+    "tags": ["амолед", "часы", "макро", "металл", "механизм", "премиальный стиль"],
+    "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/14.jpg",
-    "tags": ["amoled", "minimal", "monochrome", "silver", "grain", "texture", "soft light", "dark"],
+    "tags": ["амолед", "монохром", "серый", "зерно", "минимализм"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/15.jpg",
-    "tags": ["amoled", "lava", "volcano", "fire", "magma", "red", "embers", "flow"],
+    "tags": ["амолед", "вулкан", "лава", "огонь", "поток"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/16.jpg",
-    "tags": ["amoled", "lightning", "electric", "blue", "cracks", "storm", "energy", "dark"],
+    "tags": ["амолед", "молния", "электричество", "синий", "энергия"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/17.jpg",
-    "tags": ["amoled", "embers", "spark", "orange", "rock", "crack", "dark", "minimal"],
+    "tags": ["амолед", "искра", "угли", "оранжевый", "темный фон"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/18.jpg",
-    "tags": ["amoled", "cherry", "fruit", "macro", "red", "food", "dark", "minimal"],
+    "tags": ["амолед", "вишня", "фрукты", "макро", "красный"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/19.jpg",
-    "tags": ["amoled", "apple", "fruit", "macro", "red", "food", "dark", "minimal"],
+    "tags": ["амолед", "яблоко", "фрукты", "макро", "красный"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/20.jpg",
-    "tags": ["amoled", "fire", "coals", "embers", "sparks", "heat", "orange", "dark"],
+    "tags": ["амолед", "угли", "огонь", "искра", "жара"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/21.jpg",
-    "tags": ["amoled", "christmas", "new year", "tree", "ornaments", "holiday", "warm light", "dark"],
-    "premium": false
+    "tags": ["амолед", "новый год", "рождество", "ёлка", "игрушки", "праздник"],
+    "premium": true
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/22.jpg",
-    "tags": ["amoled", "still life", "vintage", "candlelight", "warm", "table", "moody", "dark"],
-    "premium": false
+    "tags": ["амолед", "натюрморт", "уют", "свечи", "теплый свет", "винтаж"],
+    "premium": true
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/23.jpg",
-    "tags": ["amoled", "books", "library", "shelf", "vintage", "brown", "cozy", "dark"],
+    "tags": ["амолед", "книги", "библиотека", "полка", "уют"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/24.jpg",
-    "tags": ["amoled", "books", "library", "old books", "shelf", "vintage", "texture", "dark"],
+    "tags": ["амолед", "старые книги", "винтаж", "библиотека"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/25.jpg",
-    "tags": ["amoled", "books", "library", "shelf", "warm", "vintage", "cozy", "dark"],
+    "tags": ["амолед", "книги", "уют", "теплый свет"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/26.jpg",
-    "tags": ["amoled", "old books", "leather", "spines", "library", "vintage", "brown", "dark"],
+    "tags": ["амолед", "книги", "кожа", "винтаж"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/27.jpg",
-    "tags": ["amoled", "gothic", "window", "cathedral", "fog", "moody", "architecture", "dark"],
+    "tags": ["амолед", "готика", "окно", "собор", "туман"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/28.jpg",
-    "tags": ["amoled", "door", "corridor", "mystery", "old", "gothic", "moody", "dark"],
+    "tags": ["амолед", "дверь", "коридор", "тайна", "мрачный стиль"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/29.jpg",
-    "tags": ["amoled", "sci-fi", "tech", "machine", "teal", "glow", "metal", "futuristic"],
+    "tags": ["амолед", "sci-fi", "технологии", "металл", "неон"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/30.jpg",
-    "tags": ["amoled", "sci-fi", "tech", "machine", "orange", "glow", "metal", "futuristic"],
+    "tags": ["амолед", "sci-fi", "механизм", "оранжевое свечение"],
     "premium": false
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/31.jpg",
-    "tags": ["amoled", "mouse", "cute", "animal", "books", "library", "warm", "dark"],
+    "tags": ["амолед", "мышка", "милое", "животное", "книги", "уют"],
     "premium": true
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/32.jpg",
-    "tags": ["amoled", "cute", "cat", "kitten", "glow", "blue", "character", "dark"],
+    "tags": ["амолед", "кот", "милое", "персонаж", "свечение"],
     "premium": true
   },
   {
     "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/33.jpg",
-    "tags": ["amoled", "dark", "abstract", "minimal", "glow"],
+    "tags": ["амолед", "абстракция", "темный фон", "минимализм"],
     "premium": false
   }
 ]
