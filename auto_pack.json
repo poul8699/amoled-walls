@@ -1,122 +1,25 @@
 [
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%201.jpg",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%201.webp",
-    "tags": ["авто", "киберпанк", "неон", "ночь", "дождь", "город", "скорость"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%202.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%202.webp",
-    "tags": ["авто", "спорткар", "ночь", "дождь", "огни", "город", "стиль"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%203.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%203.webp",
-    "tags": ["авто", "ретро", "микроавтобус", "осень", "листья", "дождь", "уют"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%204.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%204.webp",
-    "tags": ["авто", "ретро", "внедорожник", "осень", "ночь", "дождь", "атмосфера"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%205.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%205.webp",
-    "tags": ["авто", "внедорожник", "закат", "осень", "дождь", "дорога", "кино"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%206.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%206.webp",
-    "tags": ["авто", "ночь", "фонарь", "дождь", "город", "мокрый асфальт", "атмосфера"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%207.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%207.webp",
-    "tags": ["авто", "ночь", "туман", "дождь", "дорога", "фары", "мрачный"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%208.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%208.webp",
-    "tags": ["авто", "ночь", "туман", "мокрый асфальт", "фары", "атмосфера", "кино"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%209.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%209.webp",
-    "tags": ["авто", "ретро", "город", "ночь", "дождь", "фонари", "уют"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2010.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2010.webp",
-    "tags": ["авто", "ретро", "осень", "дождь", "мокрый асфальт", "фонари", "атмосфера"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2011.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2011.webp",
-    "tags": ["авто", "ретро", "ночь", "дождь", "фары", "город", "кино"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2012.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2012.webp",
-    "tags": ["авто", "неон", "ночь", "город", "дождь", "отражения", "киберпанк"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2013.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2013.webp",
-    "tags": ["авто", "неон", "ночь", "город", "скорость", "киберпанк", "огни"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2014.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2014.webp",
-    "tags": ["авто", "спорткар", "дождь", "ночь", "фары", "мокрый асфальт", "стиль"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2015.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2015.webp",
-    "tags": ["авто", "ретро", "черный фон", "фары", "минимализм", "классика", "ночь"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2016.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2016.webp",
-    "tags": ["авто", "ретро", "ночь", "фары", "минимализм", "классика", "темный фон"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2017.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2017.webp",
-    "tags": ["авто", "спорткар", "ночь", "дождь", "задние огни", "скорость", "стиль"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2018.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2018.webp",
-    "tags": ["авто", "ретро", "город", "ночь", "дождь", "фонари", "атмосфера"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2019.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2019.webp",
-    "tags": ["авто", "ралли", "ночь", "дождь", "грязь", "скорость", "драйв"],
-    "premium": false
-  },
-  {
-    "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2020.webp",
-    "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2020.webp",
-    "tags": ["авто", "детали", "фара", "премиальный стиль", "ночь", "черный фон", "макро"],
-    "premium": false
-  }
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%201.jpg",  "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%201.webp",  "tags": ["авто","киберпанк","неон","ночь","дождь","город","скорость"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%202.jpg",  "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%202.webp",  "tags": ["авто","спорткар","ночь","дождь","огни","город","стиль"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%203.jpg",  "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%203.webp",  "tags": ["авто","ретро","микроавтобус","осень","листья","дождь","уют"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%204.jpg",  "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%204.webp",  "tags": ["авто","ретро","внедорожник","осень","ночь","дождь","атмосфера"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%205.jpg",  "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%205.webp",  "tags": ["авто","внедорожник","закат","осень","дождь","дорога","кино"], "premium": false },
+
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%206.jpg",  "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%206.webp",  "tags": ["авто","ночь","фонарь","дождь","город","мокрый асфальт","атмосфера"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%207.jpg",  "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%207.webp",  "tags": ["авто","ночь","туман","дождь","дорога","фары","мрачный"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%208.jpg",  "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%208.webp",  "tags": ["авто","ночь","туман","мокрый асфальт","фары","атмосфера","кино"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%209.jpg",  "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%209.webp",  "tags": ["авто","ретро","город","ночь","дождь","фонари","уют"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2010.jpg", "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%2010.webp", "tags": ["авто","ретро","осень","дождь","мокрый асфальт","фонари","атмосфера"], "premium": false },
+
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2011.jpg", "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%2011.webp", "tags": ["авто","ретро","ночь","дождь","фары","город","кино"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2012.jpg", "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%2012.webp", "tags": ["авто","неон","ночь","город","дождь","отражения","киберпанк"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2013.jpg", "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%2013.webp", "tags": ["авто","неон","ночь","город","скорость","киберпанк","огни"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2014.jpg", "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%2014.webp", "tags": ["авто","спорткар","дождь","ночь","фары","мокрый асфальт","стиль"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2015.jpg", "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%2015.webp", "tags": ["авто","ретро","черный фон","фары","минимализм","классика","ночь"], "premium": false },
+
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2016.jpg", "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%2016.webp", "tags": ["авто","ретро","ночь","фары","минимализм","классика","темный фон"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2017.jpg", "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%2017.webp", "tags": ["авто","спорткар","ночь","дождь","задние огни","скорость","стиль"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2018.jpg", "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%2018.webp", "tags": ["авто","ретро","город","ночь","дождь","фонари","атмосфера"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2019.jpg", "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%2019.webp", "tags": ["авто","ралли","ночь","дождь","грязь","скорость","драйв"], "premium": false },
+  { "image": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/auto%20pack%2020.jpg", "thumb": "https://raw.githubusercontent.com/poul8699/amoled-walls/main/thumb/auto%20pack%2020.webp", "tags": ["авто","детали","фара","премиальный стиль","ночь","черный фон","макро"], "premium": false }
 ]
